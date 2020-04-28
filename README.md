@@ -2,9 +2,9 @@
 Smart remover - educational homework.
 This python script create trash folder in home directory.
 
-- autocreate trash directory and log file
-- remove object (into trash folder) => move object in the trash directory
-- recovery object from the trash => move object from the trash to the past directory
+- autocreate the trash directory and log file and check with start every function
+- remove an object (into trash folder) => move object in the trash directory
+- recovery an object from the trash => move object from the trash to the past directory
 - delete an object from the trash => remove a link to an object
 - clear all objects in the trash => remove trash directory and log file
 - show information about operations => show log file content
